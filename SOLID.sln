@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SOLID\SRP.csproj", "{1BFCAF57-4AD0-46CA-B807-365017CBFF2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP", "SRP", "{2D9E2A43-3724-4EC3-BE85-256B7B59E099}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OSP", "OSP", "{56A0A4A3-1C0F-4E12-89FC-2281B1748E7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LSP", "LSP", "{D64DF898-5751-438A-BC92-F94953BC109D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ISP", "ISP", "{A237E786-EEBF-4BDE-BC8C-10CE7860E7E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DIP", "DIP", "{5DD086C4-8434-4810-A794-3F24040B1D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BFCAF57-4AD0-46CA-B807-365017CBFF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFCAF57-4AD0-46CA-B807-365017CBFF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFCAF57-4AD0-46CA-B807-365017CBFF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFCAF57-4AD0-46CA-B807-365017CBFF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BFCAF57-4AD0-46CA-B807-365017CBFF2A} = {2D9E2A43-3724-4EC3-BE85-256B7B59E099}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD054717-7243-4D18-BFDD-ADE386979D43}
+	EndGlobalSection
+EndGlobal
